@@ -1,7 +1,3 @@
-아래는 **Provider**, **Notifier**, 그리고 **Navigator**에 대한 설명을 포함한 README 초안입니다. 학습 중인 내용을 기반으로 이해를 돕기 위한 간단한 문서 형식으로 작성했습니다.
-
----
-
 # **Provider, Notifier, Navigator Study Guide**
 
 안녕하세요! Flutter의 **Provider**, **Notifier**, 그리고 **Navigator**에 대해 공부하며 작성한 README입니다. 이 문서는 각 개념의 목적과 사용법을 간단히 설명합니다.
